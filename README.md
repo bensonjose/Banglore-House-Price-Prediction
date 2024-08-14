@@ -2,6 +2,7 @@
 
 ![Screenshot (38)](https://github.com/user-attachments/assets/ee944b63-f52d-43ee-a30d-a00de8abffc8)
 
+
 <br><br>
 In this project, I have developed a model for predicting house prices in Bangalore area(Real estate price prediction).<br>
 This model predicts the price of the house using various features such as location, Number of bedrooms and bathrooms, total area in sqft etc.<br>
